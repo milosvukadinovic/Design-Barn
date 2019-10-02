@@ -1,0 +1,124 @@
+.nav {
+    display: table-cell; vertical-align: middle;
+    
+}
+.header{
+    height: 100px;
+    width: 60%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    float:right;
+    text-align: center;
+    display: table;
+    position:relative;
+}
+.headerLink { 
+    display: inline;
+    padding-right: 60px;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+}
+body{
+    margin:0;
+    background-color:rgba(0, 0, 0, 0.808);
+}
+.bodyText{
+    width:60%;
+    background-color:rgba(0, 0, 0, 0.507);
+    height: 460px;
+}
+h2,p,h3{
+    margin:0;
+    color:white;
+}
+.barn{
+    width:50%;
+    height:20%;
+}
+.picture{
+    
+}
+.bottomText{
+    width:60%;
+    background-color:rgba(252, 130, 99, 0.432);
+    height: 200px;
+}
+.concept{
+    padding-top:50px;
+    padding-left:100px;
+    color:white;
+    font-family:"Comic Sans MS", cursive, sans-serif;
+    font-weight: 100;
+}
+.htext{
+    padding-top:110px;
+    padding-left:100px;
+    font-family:"Times New Roman", Times, serif;
+    font-weight: 100;
+}
+.htext2{
+    padding-top:30px;
+    padding-left:100px;
+    font-family:"Times New Roman", Times, serif;
+    font-weight: 100;
+}
+.ptext{
+    padding-top:30px;
+    padding-left:100px;
+    font-family:"Times New Roman", Times, serif;
+    font-weight: 100;
+    color:rgba(255, 255, 255, 0.418);
+    line-height: 2;
+}
+.ptext2{
+    padding-top:30px;
+    padding-left:100px;
+    font-family:"Times New Roman", Times, serif;
+    font-weight: 100;
+    color:rgba(255, 255, 255, 0.418);
+    line-height: 1.5;
+}
+footer{
+    width:100%;
+    background:rgba(0, 0, 0, 0.007);
+    height: 100px;
+}
+.barn{
+    float:right;
+    position:absolute;
+    top:130px;
+    right:20px;
+    width: 250px;
+    height:250px;
+    transform: rotate(5deg);
+}
+.barn1{
+    float:right;
+    position:absolute;
+    top:130px;
+    right:290px;
+    width: 250px;
+    height:250px;
+    transform: rotate(3deg);
+}
+.barn2{
+    float:right;
+    position:absolute;
+    top:400px;
+    right:30px;
+    width: 250px;
+    height:250px;
+    transform: rotate(-5deg);
+}
+.barn3{
+    float:right;
+    position:absolute;
+    top:400px;
+    right:290px;
+    width: 250px;
+    height:250px;
+    transform: rotate(5deg);
+}
