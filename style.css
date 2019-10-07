@@ -122,3 +122,22 @@ footer{
     height:250px;
     transform: rotate(5deg);
 }
+footer{
+    text-align:right;
+    float:right;
+    width:50%;
+    padding-top:70px;
+    padding-right:90px;
+    letter-spacing: 3px;
+}
+a{
+    color: brown;
+}
+@media only screen and (max-width: 1200px) {
+    .barn1,.barn,.barn2,.barn3 {
+      display:none;
+    }
+    .bottomText, .bodyText{
+        width:100%;
+    }
+  }
