@@ -2,6 +2,8 @@
 
 Concept Design for Horse Ranch
 
+![Alt text](images/ss.jpg)
+
 ## Requirements
 
 - CSS
